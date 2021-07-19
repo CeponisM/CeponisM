@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning software development, along with many other topics.
 - 💞️ I’m looking to collaborate on many different things such as software projects.
 - 📫 You can reach me by email at MantasCeponis@LewisU.edu
-- All rights reserved.
