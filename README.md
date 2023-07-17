@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CeponisM 
-- 👀 I’m interested in machine learning, AI, and blockchain.
-- 🌱 I’m currently learning software development, along with many other topics.
+- 👀 I’m interested in web development, blockchains, and AI
+- 🌱 I’m currently learning react based web-appliations and many other topics.
 - 💞️ I’m looking to collaborate on many different things such as software projects.
 - 📫 You can reach me by email at MantasCeponis@LewisU.edu
